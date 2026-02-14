@@ -19,8 +19,8 @@ Users should be able to:
 - See the social media share links when they click the share icon
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Link](https://github.com/dynalinksolution/Article-preview-component)
+- Live Site URL: [Live View](https://dynalinksolution.github.io/Article-preview-component/)
 
 ## My process
 
@@ -32,7 +32,7 @@ Users should be able to:
 - JavaScript
 
 ### Continued development
-Working on this project was fun most especially when working on the button interactive property and I look forward to building more interactive, responsive website.
+Working on this challenge was fun most especially when working on the button interactive property and I look forward to building more interactive, responsive website.
 
 ## Author
 - Frontend Mentor - [@dynalinksolution](https://www.frontendmentor.io/profile/dynalinksolution)
